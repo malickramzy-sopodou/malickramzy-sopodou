@@ -1,16 +1,16 @@
 ## Hi there 👋
+<div align="center">
 
-<!--
-**malickramzy-sopodou/malickramzy-sopodou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Bonjour, je suis Malick RAMZY SOPODOU
 
-Here are some ideas to get you started:
+### 🔐 Étudiante en Cybersécurité | Bénin 🇧🇯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</div>
+
+---
+
+## 👤 À propos de moi
+
+- 🎓 Étudiante en **Cybersécurité**
+
 -->
