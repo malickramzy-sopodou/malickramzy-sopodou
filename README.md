@@ -3,7 +3,7 @@
 
 # 👋 Bonjour, je suis Malick RAMZY SOPODOU
 
-### 🔐 Étudiante en Cybersécurité | Bénin 🇧🇯
+### 🔐 Étudiante en Cybersécurité 
 
 </div>
 
