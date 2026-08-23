@@ -1,9 +1,17 @@
 ## Hi there 👋
 <div align="center">
 
-# 👋 Hello, I am Malick RAMZY SOPODOU
+# 👋 Hey, I'm Malick Ramzy Sopodou
+🔐 Cloud Security & Detection Engineering Student
 
-### 🔐🎓 Cybersecurity student
+🛠️ I build Linux labs, security tools,
+Wazuh detection projects
+and cloud security labs ☁️
+
+🎯 Current focus :
+🐧 Linux hardening · 📡 Wazuh
+☁️ AWS foundations · 🛡️ IAM · ⚙️ DevSecOps
+
 
 </div>
 
@@ -12,7 +20,7 @@
 # 💫 About Me:
 
 
-<br>🔐 Understanding systems from the inside | CTF | Linux | Bénin 🇧🇯 → 🇨🇭<br><br>🎓 Cybersecurity Student | 🏆 CTF Player | 🛠️ I build my own tools 
+<br> 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1EQu8NMaZ9/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/malickramzysopodou?igsh=eGxsb2tubDR0NHJy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malick-ramzy-sopodou-091612410?utm_source=share_via&utm_content=profile&utm_medium=member_android)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mara_SOPODOU) 
